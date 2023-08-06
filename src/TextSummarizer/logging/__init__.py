@@ -16,4 +16,4 @@ logging.basicConfig(
     ]
 )
 
-logger = logging.getLogger("teSummarizerLogger")
+logger = logging.getLogger("textSummarizerLogger")
