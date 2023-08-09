@@ -8,8 +8,7 @@ This project uses Samsum-hugging facr data set. The SAMSum dataset contains abou
 dialogue: text of dialogue.
 summary: human written summary of the dialogue.
 id: unique id of an example.
-
-# Data Splits:
+Data Splits:
 train: 14732
 val: 818
 test: 819
